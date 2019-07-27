@@ -36,31 +36,31 @@ function change() {
    function highlightDay() {
       switch (days) {
          case 0:
-            sunday_span.style.backgroundColor = "#ff0000";
+            sunday_span.style.backgroundColor = "#ff001f";
             sunday_span.style.color = "#121014";
             break;
          case 1:
-            monday_span.style.backgroundColor = "#ff0000";
+            monday_span.style.backgroundColor = "#ff001f";
             monday_span.style.color = "#121014";
             break;
          case 2:
-            tuesday_span.style.backgroundColor = "#ff0000";
+            tuesday_span.style.backgroundColor = "#ff001f";
             tuesday_span.style.color = "#121014";
             break;
          case 3:
-            wednesday_span.style.backgroundColor = "#ff0000";
+            wednesday_span.style.backgroundColor = "#ff001f";
             wednesday_span.style.color = "#121014";
             break;
          case 4:
-            thursday_span.style.backgroundColor = "#ff0000";
+            thursday_span.style.backgroundColor = "#ff001f";
             thursday_span.style.color = "#121014";
             break;
          case 5:
-            friday_span.style.backgroundColor = "#ff0000";
+            friday_span.style.backgroundColor = "#ff001f";
             friday_span.style.color = "#121014";
             break;
          case 6:
-            saturday_span.style.backgroundColor = "#ff0000";
+            saturday_span.style.backgroundColor = "#ff001f";
             saturday_span.style.color = "#121014";
             break;
       }
