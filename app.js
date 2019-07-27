@@ -37,27 +37,27 @@ function change() {
       switch (days) {
          case 0:
             sunday_span.style.backgroundColor = "#ff001f";
-            sunday_span.style.color = "#121014";
+            sunday_span.style.color = "#121";
             break;
          case 1:
             monday_span.style.backgroundColor = "#ff001f";
-            monday_span.style.color = "#121014";
+            monday_span.style.color = "#121";
             break;
          case 2:
             tuesday_span.style.backgroundColor = "#ff001f";
-            tuesday_span.style.color = "#121014";
+            tuesday_span.style.color = "#121";
             break;
          case 3:
             wednesday_span.style.backgroundColor = "#ff001f";
-            wednesday_span.style.color = "#121014";
+            wednesday_span.style.color = "#121";
             break;
          case 4:
             thursday_span.style.backgroundColor = "#ff001f";
-            thursday_span.style.color = "#121014";
+            thursday_span.style.color = "#121";
             break;
          case 5:
             friday_span.style.backgroundColor = "#ff001f";
-            friday_span.style.color = "#121014";
+            friday_span.style.color = "#121";
             break;
          case 6:
             saturday_span.style.backgroundColor = "#ff001f";
